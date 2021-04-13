@@ -150,7 +150,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
 version = "1.15.0"
 
 [metadata]
-content-hash = "f8a21e1afab81117eea4a10ca28790c2fc741c52b7ce38f0450152f7a8f7e40c"
+content-hash = "ee0a27ba10ffa1e73ae3f144bb1cd248358d5306af1ba51c84c64632d2bebaa7"
 lock-version = "1.0"
 python-versions = "^3.8"
 
