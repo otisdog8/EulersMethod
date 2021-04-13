@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/otis/.cache/pypoetry/virtualenvs/eulersmethod-0rU8H2tq-py3.8/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}

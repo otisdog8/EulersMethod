@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "eulersmethod"
+version = "0.1.0"
+description = ""
+authors = ["Otisdog8 <otis@otisroot.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+cexprtk = "^0.3.4"
+matplotlib = "^3.4.1"
+PyQt5 = "^5.15.4"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^3.9.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
